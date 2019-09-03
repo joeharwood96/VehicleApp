@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Vehicle App</string>
+    <string name="make">Make</string>
+    <string name="model">Model</string>
+    <string name="year">Year</string>
+    <string name="LiecenceNumber">Licence Number</string>
+    <string name="price">Price</string>
+    <string name="colour">Colour</string>
+    <string name="transmission">Transmission</string>
+    <string name="mileage">Mileage</string>
+    <string name="fuelType">Fuel Type</string>
+    <string name="engineSize">Engine Size</string>
+    <string name="doors">Number of doors</string>
+    <string name="bodyStyle">Body Style</string>
+    <string name="condition">Condition</string>
+    <string name="notes">Notes</string>
+    <string name="insert">Insert</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="title_activity_update">UpdateActivity</string>
+    <string name="question">Are you sure you want to delete vehicle?</string>
+</resources>
